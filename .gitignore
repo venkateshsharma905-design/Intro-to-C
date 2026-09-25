@@ -1,0 +1,7 @@
+# Ignore macOS and VS Code system files
+.vscode/
+*.dSYM/
+.DS_Store
+
+# Ignore compiled executables (add new binary names here as you compile them)
+Intro_toC
